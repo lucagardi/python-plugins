@@ -1,6 +1,6 @@
 # collectd Python plugins
 
-This repository contains *collectd* plugins written in the Python scropting
+This repository contains *collectd* plugins written in the Python scripting
 language.
 
 ## License
